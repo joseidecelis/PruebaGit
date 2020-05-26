@@ -1,0 +1,65 @@
+contenido archivo 1 modificado
+
+editando desde el navegador
+
+
+Iterativo, comienza en una parte y terimina en la misma parte, EJ, el la luna y el sol, 
+           se intercambian de posision de forma iterativa.
+recurcivo: cuando algo se define sobre si mismo
+
+Recurrente: es cuando algo se dá y y luego de un tiempo se vuelve a dar.. ejemplo la lluvia, llueve de vez en cuando.
+
+Patron de diseño: solucion de diseño, a un problema recurrente en un contexto particular; son aplicables a un problema en concreto
+Ej: "hacer tipso de menú, con menú anidado y con opciones variables", la Arquitectura es una pauta general de todo el codigo de un proyecto
+
+Debe tener una intención, que arregle una motivación, siempre que sea aplicable (de cada patron) y que aplicabilidad tiene
+
+estos 3 apartados, son en conjunto el problema.
+
+la solución viene a ser una estructura (que viene a ser un diagrama de clases)
+participantes (que explica el rol, de cada una de las clases anterior)
+unas colavoraciones (que vienen a ser diagramas de frecuencias que explican las interelaciones entre los objetos del diagrama anterior)
+una implementación (comentando posibles variaciones, dependiendo de algún detalle)
+un código (que demuestra como se implementa en un ejemplo concreto)
+usos, reconocido en bibliotecas públicas
+algunos patrones relacionados (cuando usted aplica este patrón, es posible que aplique este patrón)
+consecuencias( ej. mayor flexibilidad pero menor e eficiencia ó esto será más seguro pero menos flexible, etc)
+
+para qué? 
+
+para ahorrar tiempo y aumentar la calidad
+para qué más? desde que hay patrones hay un vocabulario común, y en las reuniones de diseño, se pueden llegar en muy pocas
+palabras a transmitir un montón de ideas a varias personas, se levantan con muy pocas palabras los nombres de los patrones
+(que son sagrados), permite despues de una reunión, genera eficacia y eficiencia en los equipos de desarrollo
+
+Dónde?
+
+doonde sea aplicable
+/esto tiene un coste, y aveces no se justifica si lo que tienes que resolver es un problema sencillo/
+
+no arrancar una moto para andar cinco pasos, cuando se justifique, evaluando las intenciones, condiciones, aplicabilidad y consecuencias
+
+cuándo?
+
+
+
+//Diseño --> Alto acoplamiento, baja coheción, experto en la información. 
+//estudiar principio open close
+
+al entar en temas de arquitectura debo entender
+
+MVC
+MVP
+MVVM
+
+porqué ahí están inmersos, el patron Observer, Composite, Stratery
+
+
+
+
+
+
+
+
+
+
